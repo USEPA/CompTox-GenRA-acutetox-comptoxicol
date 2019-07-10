@@ -1,0 +1,91 @@
+,cat,Num,r2
+69,Aliphatic cyclic ketones and related ketoximes,2,1.0
+41,N-Alkylated aliphatic amides,6,0.8157166419370953
+49,Substituted pyrazoles,5,0.8055859308089622
+22,Xanthine derivatives carbon not substituted,16,0.5576446041803812
+25,Halosubstituted (aryl)benzamides,15,0.45192189861347376
+11,Halosubstituted (hetero)aryl tert-amines,24,0.43074603069458584
+29,"Coumarin, Chromone and Chromene derivatives excess toxicity",11,0.40212810845812164
+6,Pyridazinonyl phosphoric/phosphonic acid (thio)esters and (thio)amides,29,0.39980925157339997
+54,Anthraquinones with amino and hydroxyl groups,4,0.3908968845570664
+63,Phenyl-substituted aliphatic ethers,3,0.38875330349783477
+9,Azetidines,25,0.35842342167667873
+10,(N/A),25,0.3246871792099896
+7,Acrylic acid esters,29,0.22106852341171523
+39,Dialkyl O-1-(halophenyl)vinyl phosphates and phosphorothioates,7,0.1702080134299303
+21,N-Mustards and N-Nitrosoureas,17,0.1462460938739787
+5,Phenothiazine derivatives,37,0.1068401346248069
+15,ortho- and para-Phenylenediamines,20,0.05159023316772815
+26,N-Substituted benzenesulfonamides,11,0.03905249379407816
+3,Triazine derivatives,37,0.032695621005988995
+1,Substituted 2-(trifluoromethyl)benzimidazoles,107,0.01772419516717938
+77,Substituted aromatic azo compounds;Triazine derivatives,1,0.0
+78,Polyol fatty acid esters,1,0.0
+79,Acrylic acid esters;Isocyanates,1,0.0
+76,Aliphatic nitriles,1,0.0
+68,"alpha,beta-Unsaturated carboxylic acid esters",2,0.0
+80,Basic toxicity;Substituted primary and secondary cycloaliphatic alcohols,1,0.0
+81,"Coumarin, Chromone and Chromene derivatives excess toxicity;Halosubstituted (hetero)aryl tert-amines",1,0.0
+89,Anilines;Triazoles with miscellaneous substitutes,1,0.0
+82,Naphthol derivatives,1,0.0
+88,Dialkyl O-1-(halophenyl)vinyl phosphates and phosphorothioates;Diethyl alkyl aryl phosphorothioates,1,0.0
+83,Benzo(naphtho-)quinones and quinone imines without H atom in the quinone ring,1,0.0
+84,Basic toxicity;Phenyl-substituted aliphatic ethers,1,0.0
+85,Anilines;Phenylpiperidine derivatives,1,0.0
+87,"alpha,beta-Unsaturated ketones (Ionones and Rose ketones)",1,0.0
+86,"alpha,beta-Unsaturated nitriles",1,0.0
+60,Unsaturated esters of short-chain carboxylic acids,3,-0.011740392341838435
+17,Functionalized furan derivatives,19,-0.03386353689217647
+20,Diethyl alkyl aryl phosphorothioates,17,-0.05951472100299804
+12,Imidazoles and  Triazoles and clorinated aromatic ring,24,-0.10900455756598215
+58,Triazoles with miscellaneous substitutes,4,-0.15933147088794897
+66,Purine derivatives,3,-0.27207916402934273
+4,Phenylpiperidine derivatives,37,-0.28754554146936795
+46,Lanata and Scilla glycosides,5,-0.4631212491779526
+24,Isocyanates,16,-0.46787792959701124
+18,Substituted aromatic azo compounds,18,-0.5394343037069687
+23,Dihydrobenzodiazepin-2-one derivatives,16,-0.5537246140164105
+0,Basic toxicity,119,-0.5779969737410218
+34,Substituted arylmethyl halides and carbonylmethyl halides,9,-0.5843903094623679
+8,Dimethyl alkyl aryl phosphorothioate,27,-0.6425235761551449
+32,N-Mustards excess toxicity,10,-0.7175566330606953
+38,"alpha,beta-Unsaturated aldehydes basic toxicity",7,-0.7653513258740015
+14,N-Substituted carbofuran derivatives,20,-0.8027240948446837
+44,Dialkyl vinyl phosphate esters,5,-0.8233844725847042
+30,"alpha,beta-Unsaturated carboxylic acid esters;Methacrylic acid esters",11,-0.8404882188104115
+43,Perfluorinated chemicals without polar groups,5,-0.861031704157943
+2,Anilines,51,-1.163659586808778
+59,1-Alkyl-3-(Hydroxyalkyl)urea derivatives,4,-1.1668549960841834
+65,Alicyclic terpenoid alcohols;Basic toxicity,3,-1.2499999999999996
+27,Alkylated phenols,11,-1.2526607304016837
+42,"alpha,beta-Unsaturated aldehydes",5,-1.3766271847491987
+56,Coumarinyl phosphate and phosphorothioate esters,4,-1.4411063387449272
+16,"Substituted benzoxazolones, benzoxazolamines and benzoxazolethioles",20,-1.457257585964391
+28,Linear alkyl esters of branched-chain C4 C8-alkanecarboxylic acids,11,-1.6183889865776746
+47,Hydroxy- and alkoxy-substituted benzaldehydes,5,-1.7664923377904747
+53,"1,2-Dithiolane carboxamide derivatives",4,-1.8634370883848779
+37,Methacrylic acid esters,7,-1.8807853746301664
+51,Alkyl esters of cyclogeranic acids and structurally related alicyclic esters and acids,5,-1.911773073137765
+13,Aliphatic and arylaliphatic amines,21,-2.043066704532043
+48,Pyridine-containing piperazines and pyrrolidines,5,-2.0964765509036956
+19,alpha-Chloroacetanilide herbicides,18,-2.313074110828739
+40,"Substituted isoxazoles and isoxazolo[3,4-d]pyridazinones",7,-2.3136389417185517
+52,Resorcinol derivatives,5,-2.3403979532838273
+50,Perfluorinated chemicals with polar groups,5,-2.3948257759808445
+55,Maleimides,4,-2.73805385324878
+61,N-Substituted benzenesulfonamides;Triazine derivatives,3,-2.877856564500345
+33,Thioglycolic acid derivatives,9,-2.9038906600485777
+71,Substituted benzoxazinones and quinolones,2,-3.0
+74,Aliphatic cyclic ketones and related ketoximes;Basic toxicity,2,-3.0
+72,beta-Aminoalkane nitriles,2,-3.0
+70,Phenyl-substituted saturated and unsaturated aliphatic aldehydes,2,-3.0
+31,Monohaloacetic acid derivatives and precursors,11,-3.1162292511387433
+64,Pyrazinedicarbonitriles and related compounds,3,-3.4911864425280372
+35,"Coumarin, Chromone and Chromene derivatives basic toxicity",9,-3.8790729034215916
+45,Alkoxy(oxo)alkyl alkanecarboxylate esters,5,-3.977123278557584
+36,Long-chain alkyl and/or aryl organophosphate esters,8,-4.319852238825729
+57,Halogenated alkyl/aryl organophosphate esters,4,-4.368307108848301
+62,Halosubstituted (aryl)benzamides;Halosubstituted (hetero)aryl tert-amines,3,-7.514696882889011
+73,Alkyl alkoxyalkylcarboxylate esters,2,-353.8523073974931
+67,Halosubstituted (hetero)aryl tert-amines;Phenothiazine derivatives,2,-457.8365433825647
+75,Alicyclic acetates,2,-7689.118979736353
